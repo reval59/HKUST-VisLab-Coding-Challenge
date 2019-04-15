@@ -26,7 +26,7 @@
                         <li>You can direct to this page if you click the icon on the toolbar</li>
                         <li>Every page is fully  <span class="font-weight-bold">responsive</span> and  <span class="font-weight-bold">dynamic</span></li>
                         <li>Each time page is resized, diagrams are resized as well</li>
-                        <li>There is data tables for the reference. You can search any element</li>
+                        <li>There are data tables for the input data. You can search any element for the reference</li>
                         <li><span class="font-weight-bold">For Level 2, </span> you can change the year range as you want</li>
                         <li><span class="font-weight-bold">For Level 3, </span> you can change the department as you want</li>
                          <li><span class="font-weight-bold">For Level 3, </span> I was not sure if the collaboration between professors from different departments should be excluded so the current version includes it</li>
