@@ -192,7 +192,7 @@
                     d3.select(d3.event.target).style("opacity","0.5")
                 }
                 function unFocused(d){
-
+                    EventBus.$emit('mouseout-matrix',d)
                     d3.selectAll("rect").style("opacity","1")
                 }
 
@@ -206,7 +206,7 @@
 
                     svg.selectAll('rect')
                         .style("opacity", function (d) {
-                            if(d.x.name == val.name || d.y.name==val.name) return 0.5
+                            if(d.x.id == val.id || d.y.id==val.id) return 0.5
                             else return 1
                         })
                 })
