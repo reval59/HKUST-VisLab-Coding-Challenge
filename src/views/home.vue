@@ -29,7 +29,8 @@
                         <li>There are data tables for the input data. You can search any element for the reference</li>
                         <li><span class="font-weight-bold">For Level 2, </span> you can change the year range as you want</li>
                         <li><span class="font-weight-bold">For Level 3, </span> you can change the department as you want</li>
-                         <li><span class="font-weight-bold">For Level 3, </span> I was not sure if the collaboration between professors from different departments should be excluded so the current version includes it</li>
+                        <li><span class="font-weight-bold">For Level 3, </span> I was not sure if the collaboration between professors from different departments should be excluded so the current version includes it</li>
+                        <li><span class="font-weight-bold">For Level 3, </span> You can zoom in/out in the node links diagram</li>
                     </ol>
                 </span>
             </v-card-text>
