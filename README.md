@@ -4,7 +4,7 @@
 ## Level 2
 ![image](https://github.com/reval59/HKUST-VisLab-Coding-Challenge/blob/master/screenshots/level2.png)
 ## Level 3
-![image](https://github.com/reval59/HKUST-VisLab-Coding-Challenge/blob/master/screenshots/level2.png)
+![image](https://github.com/reval59/HKUST-VisLab-Coding-Challenge/blob/master/screenshots/level3.png)
 ## Technology Stacks
 * D3.js
 * lodash.js
