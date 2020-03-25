@@ -1,4 +1,9 @@
 # HKUST VisLab Coding Challenge by Noah Kim
+## Technology Stacks
+* D3.js
+* lodash.js
+* Vue.js
+* Vuetify.js
 
 ## Project setup
 ```
