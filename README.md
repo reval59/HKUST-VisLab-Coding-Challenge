@@ -28,6 +28,11 @@ npm run serve
 npm run build
 ```
 
+### Github page deployment
+```
+git subtree push --prefix dist origin gh-pages
+```
+
 ### Run your tests
 ```
 npm run test
